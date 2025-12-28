@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    char input[10];
+    char input[8];
 
     printf("do you like C? ");
     fgets(input, sizeof(input), stdin);
